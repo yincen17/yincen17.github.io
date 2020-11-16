@@ -133,24 +133,27 @@
    adb reboot bootloader
    ```
 
-​		Jika Menggunakan Tombol tekan dan tahan secara bersamaan  tombol power dan volume -  sampai 		muncul logo MI lalu lepaskan
+   Jika Menggunakan Tombol tekan dan tahan secara bersamaan  tombol power dan volume -  sampai muncul logo MI lalu lepaskan
+
+   
 
 4. jika hp sudah berada di mode fastboot / bootloader masukan perintah dibawah
 
    ```
    fastboot boot recovery.img
    ```
-    hp anda akan masuk ke twrp yang di hotboot
 
    
 
-5. Pada twrp  flash file  twrp installer 
+9.  Hp anda akan masuk ke twrp yang di hotboot
 
-6. lalu flash magisk installer
+11. Pada twrp  flash file  twrp installer 
 
-7. Setelah Proses flashing   selesai reboot system
+12. Lalu flash magisk installer
 
-4. selamat hp sobat telah rooted dan terpasang twrp
+13. Setelah Proses flashing   selesai reboot system
+
+14. Selamat hp sobat telah rooted dan terpasang twrp
 
 
 
