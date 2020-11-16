@@ -82,8 +82,7 @@
    ```
    adb reboot bootloader
    ```
-
-​		Jika Menggunakan Tombol tekan dan tahan secara bersamaan  tombol power dan volume -  sampai 		muncul logo MI lalu lepaskan
+   Jika Menggunakan Tombol tekan dan tahan secara bersamaan  tombol power dan volume -  sampai 		muncul logo MI lalu lepaskan
 
 3. jika hp sudah berada di mode fastboot / bootloader masukan perintah dibawah
    ```
