@@ -86,13 +86,11 @@
 ​		Jika Menggunakan Tombol tekan dan tahan secara bersamaan  tombol power dan volume -  sampai 		muncul logo MI lalu lepaskan
 
 3. jika hp sudah berada di mode fastboot / bootloader masukan perintah dibawah
-
    ```
    fastboot boot recovery.img
    ```
-
    hp anda akan masuk ke twrp yang di hotboot
-
+   
 4. Pada twrp  flash file  magisk installer 20.4
 
 5. Setelah Proses flashing  magisk selesai reboot system
