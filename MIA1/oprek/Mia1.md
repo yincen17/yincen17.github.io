@@ -2,8 +2,9 @@
 
 ### Simak step by step dibawah!
 
-> 
+> Penting!
 >
+> Harap Backup data anda terlebih dahulu ke penyimpanan lain karna melakukan unlock bootloader akan menyebaban seluruh data anda hilang
 
 ## **I.Cara Membuka Bootloader (Unlock Bootloader)**
 
@@ -13,12 +14,11 @@
 
    Setelah didownload  Ekstrak file tersebut lalu buka CMD/Powershell/Terminal
 
-   | TOOLS                        |       DOWNLOAD LINK        |
-   | :--------------------------- | :------------------------: |
-   | Minimal Adb & Platfrom Tools | [Download](www.google.com) |
-   | Platfrom Tools Windows       | [Download](www.google.com) |
-   | Platfrom Tools Linux         | [Download](www.google.com) |
-
+   |                TOOLS                 |                        DOWNLOAD LINK                         |
+   | :----------------------------------: | :----------------------------------------------------------: |
+   |     Minimal Adb & Platfrom Tools     | [Download](https://forum.xda-developers.com/showthread.php?t=2588979&page=169) |
+   | Platfrom Tools Windows / Linux / Mac | [Download](https://developer.android.com/studio/releases/platform-tools?hl=id) |
+   
 2. Buka ‘Developer options’ 
 
    Buka Settings >  About Phone > pencet Build number 5x) di Mi A1 anda dan aktifkan ‘USB  debugging’, ‘OEM Unlock’.
@@ -68,12 +68,12 @@
 
 
 
-|           BAHAN            |       DOWNLOAD LINK        |
-| :------------------------: | :------------------------: |
-| Cosmic Dan's Bootonly Twrp | [Download](www.google.com) |
-|   Magisk Installer 20.4    | [Download](www.google.com) |
+|                           BAHAN                           |                        DOWNLOAD LINK                         |
+| :-------------------------------------------------------: | :----------------------------------------------------------: |
+| TWRP-fastboot_boot_only-3.2.1-with-Tissot-Manager-2.5.zip | [Download](https://github.com/CosmicDan-Android/android_device_xiaomi_tissot/releases/download/2.5/TWRP-fastboot_boot_only-3.2.1-with-Tissot-Manager-2.5.zip) |
+|                     Magisk-v20.4.zip                      | [Download](https://github.com/topjohnwu/Magisk/releases/download/v20.4/Magisk-v20.4.zip) |
 
-1. Download bahan diatas , lalu ekstrak  file Twrp bootonly dan pindahkan file hasil ekstrak ke dalam folder minimal adb / platfrom tools , pindahkan file magisk installer 20.4 ke sdcard / internal hp sobat
+1. Download bahan diatas , lalu ekstrak  file TWRP-fastboot_boot_only-3.2.1-with-Tissot-Manager-2.5.zip  dan pindahkan file hasil ekstrak ke dalam folder minimal adb / platfrom tools , pindahkan file Magisk-v20.4.zip ke sdcard / internal hp sobat
 
 2. Masuk ke Fastboot Mode ada 2 cara yaitu:
 
@@ -90,7 +90,7 @@
    ```
    hp anda akan masuk ke twrp yang di hotboot
    
-4. Pada twrp  flash file  magisk installer 20.4
+4. Pada twrp  flash file Magisk-v20.4.zip
 
 5. Setelah Proses flashing  magisk selesai reboot system
 
@@ -102,11 +102,11 @@
 
 
 
-|            BAHAN            |       DOWNLOAD LINK        |
-| :-------------------------: | :------------------------: |
-| Cosmic Dan's Bootonly Twrp  | [Download](www.google.com) |
-| Cosmic Dan's Twrp installer | [Download](www.google.com) |
-|    Magisk Installer 20.4    | [Download](www.google.com) |
+|                           BAHAN                           |                        DOWNLOAD LINK                         |
+| :-------------------------------------------------------: | :----------------------------------------------------------: |
+| TWRP-fastboot_boot_only-3.2.1-with-Tissot-Manager-2.5.zip | [Download](https://github.com/CosmicDan-Android/android_device_xiaomi_tissot/releases/download/2.5/TWRP-fastboot_boot_only-3.2.1-with-Tissot-Manager-2.5.zip) |
+|     TWRP-Installer-3.2.1-with-Tissot-Manager-2.5.zip      | [Download](https://github.com/CosmicDan-Android/android_device_xiaomi_tissot/releases/download/2.5/TWRP-Installer-3.2.1-with-Tissot-Manager-2.5.zip) |
+|                     Magisk-v20.4.zip                      | [Download](https://github.com/topjohnwu/Magisk/releases/download/v20.4/Magisk-v20.4.zip) |
 
 
 1. Download bahan diatas ekstrak  file Twrp bootonly dan pindahkan file hasil ekstrak ke dalam folder minimal adb / platfrom tools , pindahkan file magisk installer 20.4 dan cosmic twrp installer  ke sdcard / internal hp sobat
@@ -131,9 +131,9 @@
 
    Hp anda akan otomatis masuk ke twrp yang di hotboot
 
-11. Pada twrp  flash file  twrp installer 
+11. Pada twrp  flash file  TWRP-Installer-3.2.1-with-Tissot-Manager-2.5.zip
 
-12. Lalu flash magisk installer
+12. Lalu flash Magisk-v20.4.zip
 
 13. Setelah Proses flashing   selesai reboot system
 
