@@ -114,7 +114,7 @@
 
 
    1. Download Bahan dibawah
-   
+
 |            BAHAN            |       DOWNLOAD LINK        |
 | :-------------------------: | :------------------------: |
 | Cosmic Dan's Bootonly Twrp  | [Download](www.google.com) |
