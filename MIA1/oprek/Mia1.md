@@ -73,9 +73,9 @@
 | Cosmic Dan's Bootonly Twrp | [Download](www.google.com) |
 |   Magisk Installer 20.4    | [Download](www.google.com) |
 
-2. Download bahan diatas , lalu ekstrak  file Twrp bootonly dan pindahkan file hasil ekstrak ke dalam folder minimal adb / platfrom tools , pindahkan file magisk installer 20.4 ke sdcard / internal hp sobat
+1. Download bahan diatas , lalu ekstrak  file Twrp bootonly dan pindahkan file hasil ekstrak ke dalam folder minimal adb / platfrom tools , pindahkan file magisk installer 20.4 ke sdcard / internal hp sobat
 
-3. Masuk ke Fastboot Mode ada 2 cara yaitu:
+2. Masuk ke Fastboot Mode ada 2 cara yaitu:
 
    Melalui Perintah Adb (Hubungkan hp anda ke pc , pastikan usb deblugging telah di izinkan)
 
@@ -85,7 +85,7 @@
 
 ​		Jika Menggunakan Tombol tekan dan tahan secara bersamaan  tombol power dan volume -  sampai 		muncul logo MI lalu lepaskan
 
-4. jika hp sudah berada di mode fastboot / bootloader masukan perintah dibawah
+3. jika hp sudah berada di mode fastboot / bootloader masukan perintah dibawah
 
    ```
    fastboot boot recovery.img
@@ -93,11 +93,11 @@
 
    hp anda akan masuk ke twrp yang di hotboot
 
-5. Pada twrp  flash file  magisk installer 20.4
+4. Pada twrp  flash file  magisk installer 20.4
 
-6. Setelah Proses flashing  magisk selesai reboot system
+5. Setelah Proses flashing  magisk selesai reboot system
 
-7. selamat hp sobat telah rooted
+6. selamat hp sobat telah rooted
 
    
 
