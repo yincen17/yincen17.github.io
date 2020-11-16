@@ -109,7 +109,7 @@
 |                     Magisk-v20.4.zip                      | [Download](https://github.com/topjohnwu/Magisk/releases/download/v20.4/Magisk-v20.4.zip) |
 
 
-1. Download bahan diatas ekstrak  file Twrp bootonly dan pindahkan file hasil ekstrak ke dalam folder minimal adb / platfrom tools , pindahkan file magisk installer 20.4 dan cosmic twrp installer  ke sdcard / internal hp sobat
+1. Download bahan diatas ekstrak  file TWRP-fastboot_boot_only-3.2.1-with-Tissot-Manager-2.5.zip dan pindahkan file hasil ekstrak ke dalam folder minimal adb / platfrom tools , pindahkan file Magisk-v20.4.zip dan TWRP-Installer-3.2.1-with-Tissot-Manager-2.5.zip ke sdcard / internal hp sobat
 
 2. Masuk ke Fastboot Mode ada 2 cara yaitu:
 
