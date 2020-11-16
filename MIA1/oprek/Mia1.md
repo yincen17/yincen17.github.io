@@ -113,7 +113,7 @@
 
 
 
-   1. Download Bahan dibawah
+1. Download Bahan dibawah
 
 |            BAHAN            |       DOWNLOAD LINK        |
 | :-------------------------: | :------------------------: |
