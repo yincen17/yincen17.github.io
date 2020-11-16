@@ -151,3 +151,8 @@
 7. Setelah Proses flashing   selesai reboot system
 
 8. selamat hp sobat telah rooted dan terpasang twrp
+
+   
+
+## Semoga Sukses
+
