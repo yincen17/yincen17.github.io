@@ -2,7 +2,7 @@
 
 ### Simak step by step dibawah!
 
-> Penting!
+> ⚠️ Penting!
 >
 > Harap Backup data anda terlebih dahulu ke penyimpanan lain karna melakukan unlock bootloader akan menyebaban seluruh data anda hilang
 
