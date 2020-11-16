@@ -35,8 +35,6 @@
 
    lalu pada hp sobat akan muncul prompt deblugging , centang dan izinkan
 
-   
-
 5. Masuk ke Fastboot Mode ada 2 cara yaitu:
 
    Melalui Perintah Adb
@@ -70,14 +68,12 @@
 
 
 
-1. Download Bahan Dibawah
+|           BAHAN            |       DOWNLOAD LINK        |
+| :------------------------: | :------------------------: |
+| Cosmic Dan's Bootonly Twrp | [Download](www.google.com) |
+|   Magisk Installer 20.4    | [Download](www.google.com) |
 
-   |           BAHAN            |       DOWNLOAD LINK        |
-   | :------------------------: | :------------------------: |
-   | Cosmic Dan's Bootonly Twrp | [Download](www.google.com) |
-   |   Magisk Installer 20.4    | [Download](www.google.com) |
-
-2. Ekstrak  file Twrp bootonly dan pindahkan file hasil ekstrak ke dalam folder minimal adb / platfrom tools , pindahkan file magisk installer 20.4 ke sdcard / internal hp sobat
+2. Download bahan diatas , lalu ekstrak  file Twrp bootonly dan pindahkan file hasil ekstrak ke dalam folder minimal adb / platfrom tools , pindahkan file magisk installer 20.4 ke sdcard / internal hp sobat
 
 3. Masuk ke Fastboot Mode ada 2 cara yaitu:
 
