@@ -138,14 +138,18 @@
 4. jika hp sudah berada di mode fastboot / bootloader masukan perintah dibawah
 
    ```
-fastboot boot recovery.img
+   fastboot boot recovery.img
    ```
+    hp anda akan masuk ke twrp yang di hotboot
 
-hp anda akan masuk ke twrp yang di hotboot
+   
 
 5. Pada twrp  flash file  twrp installer 
-2. lalu flash magisk installer
-3. Setelah Proses flashing   selesai reboot system
+
+6. lalu flash magisk installer
+
+7. Setelah Proses flashing   selesai reboot system
+
 4. selamat hp sobat telah rooted dan terpasang twrp
 
 
