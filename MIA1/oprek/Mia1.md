@@ -137,9 +137,9 @@
 
 4. jika hp sudah berada di mode fastboot / bootloader masukan perintah dibawah
 
-```
+   ```
 fastboot boot recovery.img
-```
+   ```
 
 hp anda akan masuk ke twrp yang di hotboot
 
