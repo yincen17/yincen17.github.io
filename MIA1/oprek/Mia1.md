@@ -105,8 +105,6 @@
 
 
 
-1. Download Bahan dibawah
-
 |            BAHAN            |       DOWNLOAD LINK        |
 | :-------------------------: | :------------------------: |
 | Cosmic Dan's Bootonly Twrp  | [Download](www.google.com) |
@@ -114,9 +112,9 @@
 |    Magisk Installer 20.4    | [Download](www.google.com) |
 
 
-2. Ekstrak  file Twrp bootonly dan pindahkan file hasil ekstrak ke dalam folder minimal adb / platfrom tools , pindahkan file magisk installer 20.4 dan cosmic twrp installer  ke sdcard / internal hp sobat
+1. Download bahan diatas ekstrak  file Twrp bootonly dan pindahkan file hasil ekstrak ke dalam folder minimal adb / platfrom tools , pindahkan file magisk installer 20.4 dan cosmic twrp installer  ke sdcard / internal hp sobat
 
-3. Masuk ke Fastboot Mode ada 2 cara yaitu:
+2. Masuk ke Fastboot Mode ada 2 cara yaitu:
 
    Melalui Perintah Adb (Hubungkan hp anda ke pc , pastikan usb deblugging telah di izinkan)
 
