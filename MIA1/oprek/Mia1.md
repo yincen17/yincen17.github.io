@@ -134,9 +134,7 @@
    fastboot boot recovery.img
    ```
 
-   
-
-9.  Hp anda akan masuk ke twrp yang di hotboot
+   Hp anda akan otomatis masuk ke twrp yang di hotboot
 
 11. Pada twrp  flash file  twrp installer 
 
